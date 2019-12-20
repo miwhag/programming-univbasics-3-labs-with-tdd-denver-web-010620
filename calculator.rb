@@ -1,7 +1,6 @@
-
-
-  first_number = 1
-  
+def first_number 
+  puts 1 
+end
   
 
 #   it "contains a local variable called second_number that is assigned to a number that isn't 0" do
